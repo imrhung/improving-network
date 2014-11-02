@@ -1,0 +1,403 @@
+@import url(http://fonts.googleapis.com/css?family=Varela+Round);
+
+body{
+    font-family: 'Varela Round', sans-serif;
+    padding-top: 0px;
+}
+html, body{
+    height: 100%;
+    background-color: #E7E7E8;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-weight:300
+}
+label.control-label{
+    font-weight:bold
+}
+.control-group.error .control-label,.control-group.error .help-block,.control-group.error .help-inline{
+    font-weight:bold
+}
+
+div.alert p{
+    margin:0
+}
+
+.form-signin,.section_forgot{
+    width:200px;
+    margin:0 auto
+}
+.form-password-forgot{
+    width:600px;
+    margin:0 auto
+}
+
+.form-horizontal .control-label {
+    text-align: left;
+}
+
+.row {
+    margin-left: -15px;
+}
+/*For no word bug: set min row*/
+table tbody div.row{
+    min-height: 20px;
+}
+
+/* Make profile button in navigation bar center */
+#user-profile{
+    margin-top: 10px;
+    margin-right: 0px;
+}
+
+/* Small text size */
+.small-text {
+    font-size: 11px;
+    color: #999;
+}
+
+/* Navigation side bar modify */
+.navbar-static-side {
+    margin-top: 0px;
+    position: fixed;
+    z-index: 100;
+    background: #E7E8E9;
+}
+
+.navbar-static-side ul li {
+    border-bottom: 1px solid #D1D2D4;
+}
+#header-logo {
+    margin-left: -15px;
+    margin-right: -15px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    background: white;
+}
+
+/* Link item on nav bar */
+.nav li a .fa{
+    margin: 0 16px;
+}
+.nav li a {
+    color: black;
+}
+.nav li.active a, .nav li.active a .fa{
+    color: green;
+}
+
+#page-wrapper{
+    min-height: 0;
+    border-left: none;
+}
+
+/*
+ * Table
+ */
+.cell-center {
+    text-align: center;   
+}
+
+/*
+ * Fade in effect for alert
+ */
+.fade {
+    opacity: 0;
+    -webkit-transition: opacity 0.25s linear;
+    -moz-transition: opacity 0.25s linear;
+    -o-transition: opacity 0.25s linear;
+    transition: opacity 0.25s linear;
+}
+/* Issue: This make bootbox background black
+.fade.in {
+    opacity: 1;
+}
+*/
+
+/* Alert area */
+#alert_placeholder{
+    margin-top: 10px;
+}
+
+
+
+.table-striped>tbody>tr:nth-child(odd)>td, .table-striped>tbody>tr:nth-child(odd)>th {
+    background-color: #E7E8E9;
+}
+
+@media (max-width: 767px) {
+    .container {
+        padding:0;
+        margin:0;
+    }
+
+    body {
+        padding:0;
+    }
+
+    .navbar-fixed-top, .navbar-fixed-bottom, .navbar-static-top {
+        margin-left: 0;
+        margin-right: 0;
+        margin-bottom:0;
+    }
+    
+    /* Navigation bar */
+    #top-navbar {
+        height: 70px;
+    }
+}
+
+@media(min-width:768px) {
+
+    #page-wrapper {
+        margin: 0 0 0 0;
+    }
+    
+    /* Navigation bar */
+    #top-navbar {
+        height: 155px;
+    }
+}
+
+/*Top bar: notification and logout*/
+#top-bar{
+    min-height: 30px;
+    background-color: #657E8A;
+}
+#sign-out{
+    margin-right: 70px;
+}
+.color-white{
+    color: white;
+}
+.color-white a{
+    color: white;
+}
+.top-bar{
+    padding-top: 5px;
+}
+
+/*Brand logo*/
+.brand-logo{
+    margin-top: -15px;
+    margin-right: 45px;
+}
+
+/* Navigation bar */
+#top-navbar {
+    background-color: #42B4C7;
+    border: none;
+    border-radius: 0px;
+}
+.nav-section{
+    height: 75px;
+    width: 125px;
+    border-radius: 8px;
+    padding: 10px;
+    color: white;
+}
+.navbar-nav li.active > div.nav-section{
+    background-color: #3CA5B6;
+}
+.navbar-nav .nav-section-name {
+    //font-size: 14px;
+    text-transform: uppercase;
+}
+.navbar-nav {
+    margin-left: 70px;
+    margin-top: 15px;
+}
+.nav li a, nav li a .fa{
+    color: white;
+}
+.nav li.active a, .nav li.active a .fa {
+    color: white;
+}
+
+/*Main content*/
+.main-content{
+    border-radius: 5px;
+    background-color: white;
+    margin: 10px;
+    margin-top: -70px;
+    position: relative;
+    padding-bottom: 10px;
+}
+#page-wrapper {
+    background-color: #E7E7E8; 
+}
+
+/*Dictionary Page*/
+/*Page title*/
+
+/*Left pannel Add word*/
+#dictionary-add div.form-group{
+    padding-top: 25px;
+}
+.form-group>div.col-md-12 {
+    margin-top: 5px;
+}
+.upload a.btn{
+    
+}
+
+/*Dictionary table*/
+#dictionary{
+    border-left: solid #D1D2D4 1px;
+}
+table.dataTable thead tr {
+    background-color: #657E8A;
+    color: white;
+}
+table.dataTable thead tr th.sorting{
+    border: none;
+}
+.image-word img{
+    height: 40px;
+}
+
+
+/*----------------------------
+    The file upload form
+-----------------------------*/
+.upload input{
+    display: none;
+}
+.upload {
+    border: #007a96 dashed 1px;
+    border-radius: 5px;
+    padding: 5px;
+    margin-left: 15px;
+    width: 88%;
+}
+.form-thumbnail{
+    padding-right: 0px;
+    margin-top: -5px;
+    margin-bottom: -5px;
+}
+
+
+
+#upload{
+    font-family:'PT Sans Narrow', sans-serif;
+    background-color:#373a3d;
+
+    background-image:-webkit-linear-gradient(top, #373a3d, #313437);
+    background-image:-moz-linear-gradient(top, #373a3d, #313437);
+    background-image:linear-gradient(top, #373a3d, #313437);
+
+    width:250px;
+    padding:30px;
+    border-radius:3px;
+
+    margin:200px auto 100px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+#drop{
+    background-color: #2E3134;
+    padding: 40px 50px;
+    margin-bottom: 30px;
+    border: 20px solid rgba(0, 0, 0, 0);
+    border-radius: 3px;
+    border-image: url('../img/border-image.png') 25 repeat;
+    text-align: center;
+    text-transform: uppercase;
+
+    font-size:16px;
+    font-weight:bold;
+    color:#7f858a;
+}
+
+#drop a{
+    background-color:#007a96;
+    padding:12px 26px;
+    color:#fff;
+    font-size:14px;
+    border-radius:2px;
+    cursor:pointer;
+    display:inline-block;
+    margin-top:12px;
+    line-height:1;
+}
+
+#drop a:hover{
+    background-color:#0986a3;
+}
+
+#drop input{
+    display:none;
+}
+
+#upload ul{
+    list-style:none;
+    margin:0 -30px;
+    border-top:1px solid #2b2e31;
+    border-bottom:1px solid #3d4043;
+}
+
+#upload ul li{
+
+    background-color:#333639;
+
+    background-image:-webkit-linear-gradient(top, #333639, #303335);
+    background-image:-moz-linear-gradient(top, #333639, #303335);
+    background-image:linear-gradient(top, #333639, #303335);
+
+    border-top:1px solid #3d4043;
+    border-bottom:1px solid #2b2e31;
+    padding:15px;
+    height: 52px;
+
+    position: relative;
+}
+
+#upload ul li input{
+    display: none;
+}
+
+#upload ul li p{
+    width: 144px;
+    overflow: hidden;
+    white-space: nowrap;
+    color: #EEE;
+    font-size: 16px;
+    font-weight: bold;
+    position: absolute;
+    top: 20px;
+    left: 100px;
+}
+
+#upload ul li i{
+    font-weight: normal;
+    font-style:normal;
+    color:#7f7f7f;
+    display:block;
+}
+
+#upload ul li canvas{
+    top: 15px;
+    left: 32px;
+    position: absolute;
+}
+
+#upload ul li span{
+    width: 15px;
+    height: 12px;
+    background: url('../img/icons.png') no-repeat;
+    position: absolute;
+    top: 34px;
+    right: 33px;
+    cursor:pointer;
+}
+
+#upload ul li.working span{
+    height: 16px;
+    background-position: 0 -12px;
+}
+
+#upload ul li.error p{
+    color:red;
+}
+
+

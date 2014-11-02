@@ -1,0 +1,3724 @@
+[
+  {
+    "img": "10384",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/4258.mp3",
+    "class": "noun",
+    "english": "",
+    "flashcardId": "225992",
+    "id": "18583",
+    "word": "week",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/104035.mp3",
+        "text": "seven days a week",
+        "english": "seven days a week",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/102573.mp3",
+        "text": "I've had a cold for one week, and I still haven't got better.",
+        "english": "I've had a cold for one week, and I still haven't got better.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/253708.mp3",
+        "text": "There are seven days in a week.",
+        "english": "There are seven days in a week.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "14841",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3120.mp3",
+    "class": "noun",
+    "english": "",
+    "flashcardId": "225993",
+    "id": "18593",
+    "word": "year",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3124.mp3",
+        "text": "leap year",
+        "english": "leap year",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3125.mp3",
+        "text": "one year",
+        "english": "one year",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/253710.mp3",
+        "text": "one calendar year",
+        "english": "one calendar year",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/253711.mp3",
+        "text": "two years",
+        "english": "",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/253712.mp3",
+        "text": "three years",
+        "english": "",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/4266.mp3",
+        "text": "There are 12 months in a year.",
+        "english": "There are 12 months in a year.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "10400",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/88852.mp3",
+    "class": "noun",
+    "english": "",
+    "flashcardId": "225989",
+    "id": "22851",
+    "word": "today",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3174.mp3",
+        "text": "today at 6:15",
+        "english": "today at 6:15",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3173.mp3",
+        "text": "I have a lot to do today.",
+        "english": "I have a lot to do today.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3296.mp3",
+        "text": "She looks really sad today.",
+        "english": "She looks really sad today.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3175.mp3",
+        "text": "Today is Saturday, September 10th.",
+        "english": "Today is Saturday, September 10th.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "10401",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/88860.mp3",
+    "class": "noun",
+    "english": "",
+    "flashcardId": "225990",
+    "id": "22869",
+    "word": "tomorrow",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3179.mp3",
+        "text": "tomorrow afternoon",
+        "english": "tomorrow afternoon",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3182.mp3",
+        "text": "tomorrow at 10:10",
+        "english": "tomorrow at 10:10",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3178.mp3",
+        "text": "Tomorrow is my birthday.",
+        "english": "Tomorrow is my birthday.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3180.mp3",
+        "text": "It will be sunny tomorrow.",
+        "english": "It will be sunny tomorrow.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/64962.mp3",
+        "text": "See you tomorrow!",
+        "english": "See you tomorrow!",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/55020.mp3",
+        "text": "Tomorrow is Wednesday, and the day after tomorrow is Thursday.",
+        "english": "Tomorrow is Wednesday, and the day after tomorrow is Thursday.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "10402",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/88862.mp3",
+    "class": "noun",
+    "english": "",
+    "flashcardId": "225991",
+    "id": "22874",
+    "word": "yesterday",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3185.mp3",
+        "text": "yesterday afternoon",
+        "english": "yesterday afternoon",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3186.mp3",
+        "text": "yesterday morning",
+        "english": "yesterday morning",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3184.mp3",
+        "text": "Yesterday was a holiday, so we had the day off.",
+        "english": "Yesterday was a holiday, so we had the day off.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3187.mp3",
+        "text": "I took a day off yesterday.",
+        "english": "I took a day off yesterday.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "8294",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/262702.mp3",
+    "class": "noun",
+    "english": "",
+    "flashcardId": "225994",
+    "id": "60170",
+    "word": "calendar",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/262703.mp3",
+        "text": "day calendar",
+        "english": "day calendar",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/253709.mp3",
+        "text": "calendar month",
+        "english": "calendar month",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/253710.mp3",
+        "text": "one calendar year",
+        "english": "one calendar year",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/262704.mp3",
+        "text": "I marked our anniversary on the calendar.",
+        "english": "I marked our anniversary on the calendar.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "18747",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3248.mp3",
+    "class": "noun",
+    "english": "",
+    "flashcardId": "225996",
+    "id": "18674",
+    "word": "hour",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3253.mp3",
+        "text": "for one hour",
+        "english": "for one hour",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/686122.mp3",
+        "text": "one hour",
+        "english": "one hour",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3251.mp3",
+        "text": "I’ll be home from work in an hour.",
+        "english": "I’ll be home from work in an hour.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3254.mp3",
+        "text": "I sleep for 8 hours every day.",
+        "english": "I sleep for 8 hours every day.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3255.mp3",
+        "text": "There are 60 minutes in an hour.",
+        "english": "There are 60 minutes in an hour.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "10923",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3257.mp3",
+    "class": "noun",
+    "english": "",
+    "flashcardId": "225997",
+    "id": "18679",
+    "word": "minute",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3263.mp3",
+        "text": "three minutes",
+        "english": "three minutes",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3260.mp3",
+        "text": "There are sixty seconds in a minute.",
+        "english": "There are sixty seconds in a minute.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3262.mp3",
+        "text": "It's one minute to midnight.",
+        "english": "It's one minute to midnight.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "7580",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/87738.mp3",
+    "class": "adverb",
+    "english": "",
+    "flashcardId": "225998",
+    "id": "18696",
+    "word": "o'clock",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3270.mp3",
+        "text": "3 o’clock",
+        "english": "3 o’clock",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3271.mp3",
+        "text": "at three o'clock",
+        "english": "at three o'clock",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3269.mp3",
+        "text": "School ends at 3 o’clock in the afternoon.",
+        "english": "School ends at 3 o’clock in the afternoon.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3272.mp3",
+        "text": "Let's meet at the station at 9 o'clock.",
+        "english": "Let's meet at the station at 9 o'clock.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "8731",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/104222.mp3",
+    "class": "noun",
+    "english": "",
+    "flashcardId": "225999",
+    "id": "56697",
+    "word": "clock",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/262856.mp3",
+        "text": "alarm clock",
+        "english": "alarm clock",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/86182.mp3",
+        "text": "set an alarm clock",
+        "english": "set an alarm clock",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/253421.mp3",
+        "text": "The clock reads eight minutes to twelve.",
+        "english": "The clock reads eight minutes to twelve.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/86708.mp3",
+        "text": "The wall clock is hanging on the wall.",
+        "english": "The wall clock is hanging on the wall.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/86183.mp3",
+        "text": "The alarm clock is set for 5 a.m.",
+        "english": "The alarm clock is set for 5 a.m.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "9008",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/89127.mp3",
+    "class": "verb",
+    "english": "",
+    "flashcardId": "225972",
+    "id": "21002",
+    "word": "can",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/4101.mp3",
+        "text": "can eat",
+        "english": "can eat",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/4103.mp3",
+        "text": "can play",
+        "english": "can play",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/254226.mp3",
+        "text": "can jump over",
+        "english": "can jump over",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/4100.mp3",
+        "text": "I can eat spicy food.",
+        "english": "I can eat spicy food.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/4102.mp3",
+        "text": "I can count from one to ten in Chinese.",
+        "english": "I can count from one to ten in Chinese.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/4104.mp3",
+        "text": "He can drive, but not very well.",
+        "english": "He can drive, but not very well.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "17270",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/4105.mp3",
+    "class": "verb",
+    "english": "",
+    "flashcardId": "225979",
+    "id": "23271",
+    "word": "use",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/198419.mp3",
+        "text": "use a computer",
+        "english": "use a computer",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/198075.mp3",
+        "text": "use a webcam",
+        "english": "use a webcam",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/4110.mp3",
+        "text": "I use a computer for work.",
+        "english": "I use a computer for work.",
+        "en_audio": ""
+      },
+      {
+        "audio": "",
+        "text": "The person is using a computer to write an e-mail.",
+        "english": "The person is using a computer to write an e-mail.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/302989.mp3",
+        "text": "The programmer is using the computer.",
+        "english": "The programmer is using the computer.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/303457.mp3",
+        "text": "The programmer uses the computer.",
+        "english": "The programmer uses the computer.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/303458.mp3",
+        "text": "The programmer used the computer.",
+        "english": "The programmer used the computer.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "9432",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3066.mp3",
+    "class": "verb",
+    "english": "",
+    "flashcardId": "225976",
+    "id": "25596",
+    "word": "do",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3070.mp3",
+        "text": "to do it all",
+        "english": "to do it all",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3072.mp3",
+        "text": "do homework",
+        "english": "do homework",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3069.mp3",
+        "text": "I have so much work to do!",
+        "english": "I have so much work to do!",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3071.mp3",
+        "text": "I do homework every day after school.",
+        "english": "I do homework every day after school.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/310905.mp3",
+        "text": "The woman is doing housework.",
+        "english": "The woman is doing housework.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/303442.mp3",
+        "text": "The woman does housework.",
+        "english": "The woman does housework.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/303443.mp3",
+        "text": "The woman did housework.",
+        "english": "The woman did housework.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "9499",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3073.mp3",
+    "class": "verb",
+    "english": "",
+    "flashcardId": "225977",
+    "id": "25608",
+    "word": "go",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3079.mp3",
+        "text": "go to the park",
+        "english": "go to the park",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/254228.mp3",
+        "text": "go straight ahead",
+        "english": "go straight ahead",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3076.mp3",
+        "text": "It's time for my sister to go to the airport.",
+        "english": "It's time for my sister to go to the airport.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3078.mp3",
+        "text": "I go to school in the city.",
+        "english": "I go to school in the city.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "9189",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3106.mp3",
+    "class": "verb",
+    "english": "",
+    "flashcardId": "225978",
+    "id": "25630",
+    "word": "come",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3110.mp3",
+        "text": "come early",
+        "english": "come early",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/254230.mp3",
+        "text": "come towards",
+        "english": "come towards",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/304045.mp3",
+        "text": "come towards a video camera",
+        "english": "come towards a video camera",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/254229.mp3",
+        "text": "Come here.",
+        "english": "Come here.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/303057.mp3",
+        "text": "The girl is coming towards the video camera.",
+        "english": "The girl is coming towards the video camera.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/303510.mp3",
+        "text": "The girl comes towards the video camera.",
+        "english": "The girl comes towards the video camera.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/303511.mp3",
+        "text": "The girl came towards the video camera.",
+        "english": "The girl came towards the video camera.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "9527",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/306149.mp3",
+    "class": "verb",
+    "english": "",
+    "flashcardId": "225973",
+    "id": "26597",
+    "word": "laugh",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/92419.mp3",
+        "text": "laugh at something funny",
+        "english": "laugh at something funny",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/304207.mp3",
+        "text": "laugh at a joke",
+        "english": "laugh at a joke",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/304208.mp3",
+        "text": "laugh at a picture",
+        "english": "laugh at a picture",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/92418.mp3",
+        "text": "The mother and daughter are laughing.",
+        "english": "The mother and daughter are laughing.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/87143.mp3",
+        "text": "The elderly people are laughing.",
+        "english": "The elderly people are laughing.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/262705.mp3",
+        "text": "The men are laughing at something funny.",
+        "english": "The men are laughing at something funny.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/303389.mp3",
+        "text": "The couple is laughing at the picture.",
+        "english": "The couple is laughing at the picture.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/303754.mp3",
+        "text": "The couple is laughing at a joke.",
+        "english": "The couple is laughing at a joke.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/303755.mp3",
+        "text": "The couple laughs at the picture.",
+        "english": "The couple laughs at the picture.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/303756.mp3",
+        "text": "The couple laughed at the picture.",
+        "english": "The couple laughed at the picture.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/304205.mp3",
+        "text": "The couple laughs at a joke.",
+        "english": "The couple laughs at a joke.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/304206.mp3",
+        "text": "The couple laughed at a joke.",
+        "english": "The couple laughed at a joke.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "8742",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/4118.mp3",
+    "class": "verb",
+    "english": "",
+    "flashcardId": "225974",
+    "id": "26684",
+    "word": "make",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/4566.mp3",
+        "text": "make coffee",
+        "english": "make coffee",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/262706.mp3",
+        "text": "make food",
+        "english": "make food",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/4123.mp3",
+        "text": "The man and woman make dinner every night.",
+        "english": "The man and woman make dinner every night.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/302973.mp3",
+        "text": "The chef is making orange juice.",
+        "english": "The chef is making orange juice.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/303445.mp3",
+        "text": "The chef makes orange juice.",
+        "english": "The chef makes orange juice.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/303446.mp3",
+        "text": "The chef made orange juice.",
+        "english": "The chef made orange juice.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/302976.mp3",
+        "text": "The maid is making the bed in a hotel room.",
+        "english": "The maid is making the bed in a hotel room.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/303447.mp3",
+        "text": "The maid makes the bed in a hotel room.",
+        "english": "The maid makes the bed in a hotel room.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/303448.mp3",
+        "text": "The maid made the bed in a hotel room.",
+        "english": "The maid made the bed in a hotel room.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "17269",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/4124.mp3",
+    "class": "verb",
+    "english": "",
+    "flashcardId": "225975",
+    "id": "27838",
+    "word": "see",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/4126.mp3",
+        "text": "see a movie",
+        "english": "see a movie",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/254236.mp3",
+        "text": "see something",
+        "english": "see something",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/304197.mp3",
+        "text": "see a sunset",
+        "english": "see a sunset",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/91299.mp3",
+        "text": "She cannot see anything without her glasses.",
+        "english": "She cannot see anything without her glasses.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/4127.mp3",
+        "text": "I'll see a play on Sunday.",
+        "english": "I'll see a play on Sunday.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/303736.mp3",
+        "text": "The tourists see the sunset.",
+        "english": "The tourists see the sunset.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/304196.mp3",
+        "text": "The tourists saw the sunset.",
+        "english": "The tourists saw the sunset.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "8065",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/88444.mp3",
+    "class": "adjective",
+    "english": "",
+    "flashcardId": "225980",
+    "id": "21499",
+    "word": "far",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3391.mp3",
+        "text": "far away",
+        "english": "far away",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3388.mp3",
+        "text": "The station is far from here.",
+        "english": "The station is far from here.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3390.mp3",
+        "text": "The woman is looking at something far away.",
+        "english": "The woman is looking at something far away.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "9725",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/88687.mp3",
+    "class": "adjective",
+    "english": "",
+    "flashcardId": "225981",
+    "id": "22298",
+    "word": "small",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/2807.mp3",
+        "text": "small size",
+        "english": "small size",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/2808.mp3",
+        "text": "small chick",
+        "english": "small chick",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/254058.mp3",
+        "text": "very small",
+        "english": "very small",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/2803.mp3",
+        "text": "The car is small, but it's very powerful.",
+        "english": "The car is small, but it's very powerful.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/254057.mp3",
+        "text": "There is a very small hamburger on the spoon.",
+        "english": "There is a very small hamburger on the spoon.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "17033",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3004.mp3",
+    "class": "adjective",
+    "english": "",
+    "flashcardId": "225982",
+    "id": "23801",
+    "word": "good",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3007.mp3",
+        "text": "good for one's body",
+        "english": "good for one's body",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3005.mp3",
+        "text": "She is a good person.",
+        "english": "She is a good person.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3008.mp3",
+        "text": "Vegetables are good for you.",
+        "english": "Vegetables are good for you.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3009.mp3",
+        "text": "Thumbs up means good.",
+        "english": "Thumbs up means good.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "9658",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/87475.mp3",
+    "class": "adjective",
+    "english": "",
+    "flashcardId": "225983",
+    "id": "25273",
+    "word": "beautiful",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3825.mp3",
+        "text": "beautiful dress",
+        "english": "beautiful dress",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3827.mp3",
+        "text": "beautiful eyes",
+        "english": "beautiful eyes",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/4162.mp3",
+        "text": "very beautiful",
+        "english": "very beautiful",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3831.mp3",
+        "text": "beautiful woman",
+        "english": "beautiful woman",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/92599.mp3",
+        "text": "beautiful actress",
+        "english": "beautiful actress",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3826.mp3",
+        "text": "She's not only beautiful, but also very smart.",
+        "english": "She's not only beautiful, but also very smart.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3828.mp3",
+        "text": "The scenary is beautiful.",
+        "english": "The scenary is beautiful.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3830.mp3",
+        "text": "She is a beautiful woman.",
+        "english": "She is a beautiful woman.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/262772.mp3",
+        "text": "She is beautiful.",
+        "english": "She is beautiful.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "8197",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3843.mp3",
+    "class": "adjective",
+    "english": "",
+    "flashcardId": "225984",
+    "id": "26243",
+    "word": "ugly",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3845.mp3",
+        "text": "ugly animal",
+        "english": "ugly animal",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3847.mp3",
+        "text": "ugly figure",
+        "english": "ugly figure",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/262774.mp3",
+        "text": "ugly face",
+        "english": "ugly face",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3844.mp3",
+        "text": "That is a very ugly dog.",
+        "english": "That is a very ugly dog.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3846.mp3",
+        "text": "The ugly duckling became a beautiful swan.",
+        "english": "The ugly duckling became a beautiful swan.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "17227",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/4217.mp3",
+    "class": "adjective",
+    "english": "",
+    "flashcardId": "225985",
+    "id": "26543",
+    "word": "difficult",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/91369.mp3",
+        "text": "very difficult",
+        "english": "very difficult",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/4223.mp3",
+        "text": "difficult job",
+        "english": "difficult job",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/91370.mp3",
+        "text": "difficult problem",
+        "english": "difficult problem",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/4220.mp3",
+        "text": "Wednesday's test will be difficult.",
+        "english": "Wednesday's test will be difficult.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/64718.mp3",
+        "text": "English is difficult.",
+        "english": "English is difficult.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "8717",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/4224.mp3",
+    "class": "adjective",
+    "english": "",
+    "flashcardId": "225986",
+    "id": "27853",
+    "word": "easy",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/253859.mp3",
+        "text": "easy problem",
+        "english": "easy problem",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/253858.mp3",
+        "text": "This problem is easy.",
+        "english": "This problem is easy.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "8487",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3636.mp3",
+    "class": "adjective",
+    "english": "",
+    "flashcardId": "225987",
+    "id": "27854",
+    "word": "bad",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3638.mp3",
+        "text": "bad news",
+        "english": "bad news",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3639.mp3",
+        "text": "bad day",
+        "english": "bad day",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3637.mp3",
+        "text": "He's a bad boy.",
+        "english": "He's a bad boy.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3640.mp3",
+        "text": "Thumbs down means bad.",
+        "english": "Thumbs down means bad.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/262775.mp3",
+        "text": "The man is bad.",
+        "english": "The man is bad.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "9622",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/85485.mp3",
+    "class": "adjective",
+    "english": "",
+    "flashcardId": "225988",
+    "id": "32940",
+    "word": "near",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/85486.mp3",
+        "text": "near the city",
+        "english": "near the city",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/85487.mp3",
+        "text": "I live near the university.",
+        "english": "I live near the university.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/263277.mp3",
+        "text": "Could you tell me where the nearest metro station is?",
+        "english": "Could you tell me where the nearest metro station is?",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "9401",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/89211.mp3",
+    "class": "expression",
+    "english": "",
+    "flashcardId": "535465",
+    "id": "21113",
+    "word": "Nice to meet you.",
+    "en_audio": "",
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/2974.mp3",
+        "text": "Please come in, it's nice to meet you.",
+        "english": "Please come in, it's nice to meet you.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/2975.mp3",
+        "text": "Hello Peter, my name is Richard and it is nice to meet you.",
+        "english": "Hello Peter, my name is Richard and it is nice to meet you.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/2976.mp3",
+        "text": "Nice to meet you, sir.",
+        "english": "Nice to meet you, sir.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "17251",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/88341.mp3",
+    "class": "expression",
+    "english": "",
+    "flashcardId": "2181770",
+    "id": "21115",
+    "word": "Hello.",
+    "en_audio": "",
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/2889.mp3",
+        "text": "When I first meet someone, I like to say, \"Hello.\"",
+        "english": "When I first meet someone, I like to say, \"Hello.\"",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "17247",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/88343.mp3",
+    "class": "expression",
+    "english": "",
+    "flashcardId": "2181767",
+    "id": "21121",
+    "word": "Good morning.",
+    "en_audio": "",
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/2893.mp3",
+        "text": "I always say, \"Good evening,\"to the people I meet on my way home from work.",
+        "english": "I always say, \"Good evening,\"to the people I meet on my way home from work.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "3504",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/88344.mp3",
+    "class": "expression",
+    "english": "",
+    "flashcardId": "2181765",
+    "id": "21123",
+    "word": "Good afternoon.",
+    "en_audio": "",
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/2895.mp3",
+        "text": "\"Good afternoon,\" is a greeting used from noon to early evening.",
+        "english": "\"Good afternoon,\" is a greeting used from noon to early evening.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "17246",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/88345.mp3",
+    "class": "expression",
+    "english": "",
+    "flashcardId": "2181766",
+    "id": "21125",
+    "word": "Good evening.",
+    "en_audio": "",
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/2897.mp3",
+        "text": "visiting friends after dinner usually leads to a good evening.",
+        "english": "visiting friends after dinner usually leads to a good evening.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "17249",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/88346.mp3",
+    "class": "expression",
+    "english": "",
+    "flashcardId": "2181768",
+    "id": "21127",
+    "word": "Good night.",
+    "en_audio": "",
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/91167.mp3",
+        "text": "I said good night to everyone when I left the party.",
+        "english": "I said good night to everyone when I left the party.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "10083",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/89209.mp3",
+    "class": "expression",
+    "english": "",
+    "flashcardId": "535468",
+    "id": "21136",
+    "word": "How are you?",
+    "en_audio": ""
+  },
+  {
+    "img": "14992",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/910067.mp3",
+    "class": "expression",
+    "english": "",
+    "flashcardId": "535473",
+    "id": "21148",
+    "word": "Thank you!",
+    "en_audio": "",
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/2911.mp3",
+        "text": "Thank you very much for the invitation.",
+        "english": "Thank you very much for the invitation.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/68468.mp3",
+        "text": "Thank you for coming.",
+        "english": "Thank you for coming.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "9431",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/89112.mp3",
+    "class": "expression",
+    "english": "",
+    "flashcardId": "535716",
+    "id": "23785",
+    "word": "No.",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3003.mp3",
+        "text": "\"no\" sign",
+        "english": "\"no\" sign",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/65634.mp3",
+        "text": "No, thank you.",
+        "english": "No, thank you.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3000.mp3",
+        "text": "No means no.",
+        "english": "No means no.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3002.mp3",
+        "text": "Thumbs down means no.",
+        "english": "Thumbs down means no.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "10146",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/89203.mp3",
+    "class": "expression",
+    "english": "",
+    "flashcardId": "535718",
+    "id": "24098",
+    "word": "Delicious!",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/2980.mp3",
+        "text": "delicious deserts",
+        "english": "delicious deserts",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/2979.mp3",
+        "text": "Your mother makes the most delicious pies I have ever eaten.",
+        "english": "Your mother makes the most delicious pies I have ever eaten.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "9898",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/87588.mp3",
+    "class": "expression",
+    "english": "",
+    "flashcardId": "535475",
+    "id": "25701",
+    "word": "I'm...(name).",
+    "en_audio": ""
+  },
+  {
+    "img": "17250",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/2907.mp3",
+    "class": "expression",
+    "english": "",
+    "flashcardId": "2181769",
+    "id": "26009",
+    "word": "Goodbye.",
+    "en_audio": ""
+  },
+  {
+    "img": "17257",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/85479.mp3",
+    "class": "expression",
+    "english": "",
+    "flashcardId": "2181771",
+    "id": "32928",
+    "word": "Yes.",
+    "en_audio": ""
+  },
+  {
+    "img": "9732",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/87724.mp3",
+    "class": "noun",
+    "english": "",
+    "flashcardId": "225936",
+    "id": "18634",
+    "word": "Monday",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3137.mp3",
+        "text": "Monday the 12th",
+        "english": "Monday the 12th",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3135.mp3",
+        "text": "The workweek starts on Monday.",
+        "english": "The workweek starts on Monday.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/90274.mp3",
+        "text": "Monday, Tuesday, Wednesday, Thursday and Friday are weekdays.",
+        "english": "Monday, Tuesday, Wednesday, Thursday and Friday are weekdays.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "9309",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/87726.mp3",
+    "class": "noun",
+    "english": "",
+    "flashcardId": "225937",
+    "id": "18639",
+    "word": "Tuesday",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3142.mp3",
+        "text": "Tuesday next week",
+        "english": "Tuesday next week",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/253714.mp3",
+        "text": "Tuesday, January 1st",
+        "english": "Tuesday, January 1st",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/90274.mp3",
+        "text": "Monday, Tuesday, Wednesday, Thursday and Friday are weekdays.",
+        "english": "Monday, Tuesday, Wednesday, Thursday and Friday are weekdays.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/253713.mp3",
+        "text": "January 1st falls on a Tuesday this year.",
+        "english": "January 1st falls on a Tuesday this year.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "8832",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/87725.mp3",
+    "class": "noun",
+    "english": "",
+    "flashcardId": "225938",
+    "id": "18644",
+    "word": "Wednesday",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/91630.mp3",
+        "text": "Wednesday the 18th",
+        "english": "Wednesday the 18th",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3146.mp3",
+        "text": "Wednesday nights we play poker at my house.",
+        "english": "Wednesday nights we play poker at my house.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/90274.mp3",
+        "text": "Monday, Tuesday, Wednesday, Thursday and Friday are weekdays.",
+        "english": "Monday, Tuesday, Wednesday, Thursday and Friday are weekdays.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/55020.mp3",
+        "text": "Tomorrow is Wednesday, and the day after tomorrow is Thursday.",
+        "english": "Tomorrow is Wednesday, and the day after tomorrow is Thursday.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "8439",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/87729.mp3",
+    "class": "noun",
+    "english": "",
+    "flashcardId": "225939",
+    "id": "18649",
+    "word": "Thursday",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3153.mp3",
+        "text": "on Thursday",
+        "english": "on Thursday",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3154.mp3",
+        "text": "Thursday, January 3rd",
+        "english": "Thursday, January 3rd",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/90274.mp3",
+        "text": "Monday, Tuesday, Wednesday, Thursday and Friday are weekdays.",
+        "english": "Monday, Tuesday, Wednesday, Thursday and Friday are weekdays.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/55020.mp3",
+        "text": "Tomorrow is Wednesday, and the day after tomorrow is Thursday.",
+        "english": "Tomorrow is Wednesday, and the day after tomorrow is Thursday.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "9319",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/87727.mp3",
+    "class": "noun",
+    "english": "",
+    "flashcardId": "225940",
+    "id": "18654",
+    "word": "Friday",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/253715.mp3",
+        "text": "Friday, December 8th",
+        "english": "Friday, December 8th",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/90274.mp3",
+        "text": "Monday, Tuesday, Wednesday, Thursday and Friday are weekdays.",
+        "english": "Monday, Tuesday, Wednesday, Thursday and Friday are weekdays.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/253716.mp3",
+        "text": "Write the plans for Friday on the calendar.",
+        "english": "Write the plans for Friday on the calendar.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "8657",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/87728.mp3",
+    "class": "noun",
+    "english": "",
+    "flashcardId": "225941",
+    "id": "18659",
+    "word": "Saturday",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3165.mp3",
+        "text": "Saturday night",
+        "english": "Saturday night",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/91632.mp3",
+        "text": "no plans for Saturday",
+        "english": "no plans for Saturday",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3164.mp3",
+        "text": "I do housework every Saturday for five hours.",
+        "english": "I do housework every Saturday for five hours.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3175.mp3",
+        "text": "Today is Saturday, September 10th.",
+        "english": "Today is Saturday, September 10th.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "15509",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3166.mp3",
+    "class": "noun",
+    "english": "",
+    "flashcardId": "225942",
+    "id": "18664",
+    "word": "Sunday",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3170.mp3",
+        "text": "Sunday morning breakfast",
+        "english": "Sunday morning breakfast",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/305966.mp3",
+        "text": "Sunday morning",
+        "english": "Sunday morning",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3171.mp3",
+        "text": "Sunday the seventeenth",
+        "english": "Sunday the seventeenth",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/253718.mp3",
+        "text": "Sunday the 17th",
+        "english": "Sunday the 17th",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3169.mp3",
+        "text": "We like to sleep late on Sunday mornings.",
+        "english": "We like to sleep late on Sunday mornings.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3978.mp3",
+        "text": "The bank is not open for business on Sundays.",
+        "english": "The bank is not open for business on Sundays.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/102661.mp3",
+        "text": "Every Sunday morning we buy bread, cake, and cookies at the bakery.",
+        "english": "Every Sunday morning we buy bread, cake, and cookies at the bakery.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/55584.mp3",
+        "text": "Today is Sunday.",
+        "english": "Today is Sunday.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/253717.mp3",
+        "text": "Sunday is Father's Day.",
+        "english": "Sunday is Father's Day.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "9507",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/88308.mp3",
+    "class": "proper noun",
+    "english": "",
+    "flashcardId": "225924",
+    "id": "21017",
+    "word": "May",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3194.mp3",
+        "text": "May flowers",
+        "english": "May flowers",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3199.mp3",
+        "text": "It is now April so next month will be May.",
+        "english": "It is now April so next month will be May.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3193.mp3",
+        "text": "May 31st is World No Smoking Day.",
+        "english": "May 31st is World No Smoking Day.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "8088",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3207.mp3",
+    "class": "proper noun",
+    "english": "",
+    "flashcardId": "225926",
+    "id": "28121",
+    "word": "January",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3154.mp3",
+        "text": "Thursday, January 3rd",
+        "english": "Thursday, January 3rd",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3209.mp3",
+        "text": "January 2009",
+        "english": "January 2009",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/253714.mp3",
+        "text": "Tuesday, January 1st",
+        "english": "Tuesday, January 1st",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3788.mp3",
+        "text": "It's very cold here in January.",
+        "english": "It's very cold here in January.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/253713.mp3",
+        "text": "January 1st falls on a Tuesday this year.",
+        "english": "January 1st falls on a Tuesday this year.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "8437",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3210.mp3",
+    "class": "proper noun",
+    "english": "",
+    "flashcardId": "225927",
+    "id": "28122",
+    "word": "February",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3211.mp3",
+        "text": "February 29th",
+        "english": "February 29th",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3212.mp3",
+        "text": "February is the shortest month with 28 days.",
+        "english": "February is the shortest month with 28 days.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3213.mp3",
+        "text": "Leap year day is February 29th.",
+        "english": "Leap year day is February 29th.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "9694",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3204.mp3",
+    "class": "proper noun",
+    "english": "",
+    "flashcardId": "225925",
+    "id": "28123",
+    "word": "March",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3205.mp3",
+        "text": "March 17th",
+        "english": "March 17th",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3196.mp3",
+        "text": "It is now April so last month was March.",
+        "english": "It is now April so last month was March.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3206.mp3",
+        "text": "March marks the start of Spring in the northen hemisphere and fall in the southern hemisphere.",
+        "english": "March marks the start of Spring in the northen hemisphere and fall in the southern hemisphere.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "8092",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3214.mp3",
+    "class": "proper noun",
+    "english": "",
+    "flashcardId": "225928",
+    "id": "28124",
+    "word": "April",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/90044.mp3",
+        "text": "April first",
+        "english": "April first",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3199.mp3",
+        "text": "It is now April so next month will be May.",
+        "english": "It is now April so next month will be May.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3216.mp3",
+        "text": "April showers bring May flowers.",
+        "english": "April showers bring May flowers.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "9647",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3218.mp3",
+    "class": "proper noun",
+    "english": "",
+    "flashcardId": "225929",
+    "id": "28125",
+    "word": "June",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3219.mp3",
+        "text": "June wedding",
+        "english": "June wedding",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3220.mp3",
+        "text": "There are a large number of weddings in June, as some think its a lucky month for love.",
+        "english": "There are a large number of weddings in June, as some think its a lucky month for love.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/68626.mp3",
+        "text": "We are getting married in June.",
+        "english": "We are getting married in June.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "9436",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3221.mp3",
+    "class": "proper noun",
+    "english": "",
+    "flashcardId": "225930",
+    "id": "28126",
+    "word": "July",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/4268.mp3",
+        "text": "month of July",
+        "english": "month of July",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3223.mp3",
+        "text": "July is one of 7 months with 31 days.",
+        "english": "July is one of 7 months with 31 days.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3224.mp3",
+        "text": "July is named for Julius Caesar, who was born in July.",
+        "english": "July is named for Julius Caesar, who was born in July.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "9334",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3225.mp3",
+    "class": "proper noun",
+    "english": "",
+    "flashcardId": "225931",
+    "id": "28127",
+    "word": "August",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3226.mp3",
+        "text": "hot August day",
+        "english": "hot August day",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3796.mp3",
+        "text": "It's usually hot in August, but today it's really hot.",
+        "english": "It's usually hot in August, but today it's really hot.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3227.mp3",
+        "text": "Napoleon Bonaparte was born on August 15th, 1769.",
+        "english": "Napoleon Bonaparte was born on August 15th, 1769.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/64198.mp3",
+        "text": "The school is closed in August.",
+        "english": "The school is closed in August.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "8035",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3228.mp3",
+    "class": "proper noun",
+    "english": "",
+    "flashcardId": "225932",
+    "id": "28128",
+    "word": "September",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3229.mp3",
+        "text": "September 1st",
+        "english": "September 1st",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3175.mp3",
+        "text": "Today is Saturday, September 10th.",
+        "english": "Today is Saturday, September 10th.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3230.mp3",
+        "text": "In September, fall begins in the northen hemisphere and spring in the southern hemisphere.",
+        "english": "In September, fall begins in the northen hemisphere and spring in the southern hemisphere.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "8951",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3231.mp3",
+    "class": "proper noun",
+    "english": "",
+    "flashcardId": "225933",
+    "id": "28129",
+    "word": "October",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3232.mp3",
+        "text": "on October 13th",
+        "english": "on October 13th",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3233.mp3",
+        "text": "Halloween falls on October 31st.",
+        "english": "Halloween falls on October 31st.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "9186",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3234.mp3",
+    "class": "proper noun",
+    "english": "",
+    "flashcardId": "225934",
+    "id": "28130",
+    "word": "November",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3235.mp3",
+        "text": "Thanksgiving, Thursday November 24th",
+        "english": "Thanksgiving, Thursday November 24th",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3236.mp3",
+        "text": "November is one of four months with thirty days.",
+        "english": "November is one of four months with thirty days.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "8754",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3237.mp3",
+    "class": "proper noun",
+    "english": "",
+    "flashcardId": "225935",
+    "id": "28131",
+    "word": "December",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3238.mp3",
+        "text": "December 25th",
+        "english": "December 25th",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/253715.mp3",
+        "text": "Friday, December 8th",
+        "english": "Friday, December 8th",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3239.mp3",
+        "text": "December 31st is New Year's Eve.",
+        "english": "December 31st is New Year's Eve.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "10304",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/87285.mp3",
+    "class": "noun",
+    "english": "",
+    "flashcardId": "225914",
+    "id": "21038",
+    "word": "zero",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/89614.mp3",
+        "text": "fall below zero degrees Celsius",
+        "english": "fall below zero degrees Celsius",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/89497.mp3",
+        "text": "zero-point-five degrees",
+        "english": "zero-point-five degrees",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/253419.mp3",
+        "text": "number zero",
+        "english": "number zero",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3469.mp3",
+        "text": "It's about zero degrees today.",
+        "english": "It's about zero degrees today.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "8873",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/88316.mp3",
+    "class": "noun",
+    "english": "",
+    "flashcardId": "225915",
+    "id": "21041",
+    "word": "one",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3256.mp3",
+        "text": "one hour",
+        "english": "one hour",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/198014.mp3",
+        "text": "number one",
+        "english": "number one",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/198015.mp3",
+        "text": "one degree",
+        "english": "one degree",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/4256.mp3",
+        "text": "There are twenty-four hours in one day.",
+        "english": "There are twenty-four hours in one day.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "9077",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/88317.mp3",
+    "class": "noun",
+    "english": "",
+    "flashcardId": "225916",
+    "id": "21044",
+    "word": "two",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/104026.mp3",
+        "text": "two arms",
+        "english": "two arms",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/4293.mp3",
+        "text": "number two",
+        "english": "number two",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/198016.mp3",
+        "text": "two degrees",
+        "english": "two degrees",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/104025.mp3",
+        "text": "I have two (2) arms and two (2) legs.",
+        "english": "I have two (2) arms and two (2) legs.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/198017.mp3",
+        "text": "The number two is my favorite number.",
+        "english": "The number two is my favorite number.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "9718",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/88318.mp3",
+    "class": "noun",
+    "english": "",
+    "flashcardId": "225917",
+    "id": "21047",
+    "word": "three",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/4297.mp3",
+        "text": "number three",
+        "english": "number three",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/90747.mp3",
+        "text": "The first group arrived on bus number three.",
+        "english": "The first group arrived on bus number three.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/54460.mp3",
+        "text": "It is three o'clock now.",
+        "english": "It is three o'clock now.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/198018.mp3",
+        "text": "three degrees",
+        "english": "three degrees",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "9466",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/88319.mp3",
+    "class": "noun",
+    "english": "",
+    "flashcardId": "225918",
+    "id": "21050",
+    "word": "four",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/4301.mp3",
+        "text": "number four",
+        "english": "number four",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/198019.mp3",
+        "text": "four-lane motorway",
+        "english": "four-lane motorway",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/198021.mp3",
+        "text": "four things",
+        "english": "",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3236.mp3",
+        "text": "November is one of four months with thirty days.",
+        "english": "November is one of four months with thirty days.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/198020.mp3",
+        "text": "four degrees",
+        "english": "four degrees",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "8167",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/88320.mp3",
+    "class": "noun",
+    "english": "",
+    "flashcardId": "225919",
+    "id": "21053",
+    "word": "five",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/4305.mp3",
+        "text": "number five",
+        "english": "number five",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/198023.mp3",
+        "text": "five degrees",
+        "english": "five degrees",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/198024.mp3",
+        "text": "five things",
+        "english": "",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/198022.mp3",
+        "text": "The starfish has five legs.",
+        "english": "The starfish has five legs.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "9140",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/88321.mp3",
+    "class": "noun",
+    "english": "",
+    "flashcardId": "225920",
+    "id": "21056",
+    "word": "six",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/92261.mp3",
+        "text": "six inches",
+        "english": "six inches",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/4309.mp3",
+        "text": "number six",
+        "english": "number six",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/198025.mp3",
+        "text": "six things",
+        "english": "six things",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/198026.mp3",
+        "text": "six degrees",
+        "english": "six degrees",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/305963.mp3",
+        "text": "I wake up every morning at six o'clock a.m.",
+        "english": "I wake up every morning at six o'clock a.m.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "9424",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/88322.mp3",
+    "class": "noun",
+    "english": "",
+    "flashcardId": "225921",
+    "id": "21059",
+    "word": "seven",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/104035.mp3",
+        "text": "seven days a week",
+        "english": "seven days a week",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/4313.mp3",
+        "text": "number seven",
+        "english": "number seven",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/198027.mp3",
+        "text": "seven degrees",
+        "english": "seven degrees",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/198028.mp3",
+        "text": "seven things",
+        "english": "seven things",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/102572.mp3",
+        "text": "There are seven (7) days in every week.",
+        "english": "There are seven (7) days in every week.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "9473",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/88323.mp3",
+    "class": "noun",
+    "english": "",
+    "flashcardId": "225922",
+    "id": "21062",
+    "word": "eight",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/4315.mp3",
+        "text": "eight times",
+        "english": "eight times",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/4317.mp3",
+        "text": "number eight",
+        "english": "number eight",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/198029.mp3",
+        "text": "eight things",
+        "english": "eight things",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/198030.mp3",
+        "text": "eight degrees",
+        "english": "eight degrees",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/91556.mp3",
+        "text": "You should sleep at least eight hours every night.",
+        "english": "You should sleep at least eight hours every night.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/89812.mp3",
+        "text": "A spider has eight legs.",
+        "english": "A spider has eight legs.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "8833",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/88324.mp3",
+    "class": "noun",
+    "english": "",
+    "flashcardId": "225923",
+    "id": "21065",
+    "word": "nine",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/4321.mp3",
+        "text": "number nine",
+        "english": "number nine",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/4379.mp3",
+        "text": "ninety-nine percent",
+        "english": "ninety-nine percent",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/198031.mp3",
+        "text": "nine things",
+        "english": "nine things",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/198032.mp3",
+        "text": "nine degrees",
+        "english": "nine degrees",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/2708.mp3",
+        "text": "The plane will take off at nine o'clock.",
+        "english": "The plane will take off at nine o'clock.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "9088",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/4322.mp3",
+    "class": "noun",
+    "english": "",
+    "flashcardId": "225913",
+    "id": "27848",
+    "word": "ten",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/4325.mp3",
+        "text": "number ten",
+        "english": "number ten",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/198033.mp3",
+        "text": "ten things",
+        "english": "ten things",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/198034.mp3",
+        "text": "ten degrees",
+        "english": "ten degrees",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/4102.mp3",
+        "text": "I can count from one to ten in Chinese.",
+        "english": "I can count from one to ten in Chinese.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/4324.mp3",
+        "text": "This building has ten floors.",
+        "english": "This building has ten floors.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "9158",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/87753.mp3",
+    "class": "noun",
+    "english": "",
+    "flashcardId": "225943",
+    "id": "18744",
+    "word": "coffee",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/4567.mp3",
+        "text": "cup of coffee",
+        "english": "cup of coffee",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/105209.mp3",
+        "text": "drink coffee",
+        "english": "drink coffee",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/4561.mp3",
+        "text": "I start each day with a cup of coffee.",
+        "english": "I start each day with a cup of coffee.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/4565.mp3",
+        "text": "I like my coffee black.",
+        "english": "I like my coffee black.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/197979.mp3",
+        "text": "The coffee pot is full of coffee.",
+        "english": "The coffee pot is full of coffee.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "8700",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/87754.mp3",
+    "class": "noun",
+    "english": "",
+    "flashcardId": "225944",
+    "id": "18747",
+    "word": "beer",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/4575.mp3",
+        "text": "bottle of beer",
+        "english": "bottle of beer",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/4576.mp3",
+        "text": "draft beer",
+        "english": "draft beer",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/4577.mp3",
+        "text": "can of beer",
+        "english": "can of beer",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/105880.mp3",
+        "text": "The bartender is pouring a draft beer.",
+        "english": "The bartender is pouring a draft beer.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "17286",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/87763.mp3",
+    "class": "noun",
+    "english": "",
+    "flashcardId": "225945",
+    "id": "18774",
+    "word": "tea",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/4607.mp3",
+        "text": "tea bag",
+        "english": "tea bag",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/105210.mp3",
+        "text": "drink tea",
+        "english": "drink tea",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/4602.mp3",
+        "text": "Tea is a popular drink throughout the world.",
+        "english": "Tea is a popular drink throughout the world.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/4605.mp3",
+        "text": "Would you like a cup of tea?",
+        "english": "Would you like a cup of tea?",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/197981.mp3",
+        "text": "The woman is drinking tea.",
+        "english": "The woman is drinking tea.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "12080",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/4609.mp3",
+    "class": "noun",
+    "english": "",
+    "flashcardId": "225946",
+    "id": "18780",
+    "word": "wine",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/4613.mp3",
+        "text": "white wine",
+        "english": "white wine",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/4614.mp3",
+        "text": "red wine",
+        "english": "red wine",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/4617.mp3",
+        "text": "glass of wine",
+        "english": "glass of wine",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/4619.mp3",
+        "text": "two glasses of red wine and one glass of white wine",
+        "english": "two glasses of red wine and one glass of white wine",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/4615.mp3",
+        "text": "You drink red wine with meat, and white wine with fish.",
+        "english": "You drink red wine with meat, and white wine with fish.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/4616.mp3",
+        "text": "Wine is being poured into the glass.",
+        "english": "Wine is being poured into the glass.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "9628",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/305977.mp3",
+    "class": "noun",
+    "english": "",
+    "flashcardId": "225947",
+    "id": "56503",
+    "word": "water",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/4559.mp3",
+        "text": "drink water",
+        "english": "drink water",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/305979.mp3",
+        "text": "glass of water",
+        "english": "glass of water",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/305978.mp3",
+        "text": "The man is drinking from the water bottle.",
+        "english": "The man is drinking from the water bottle.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3097.mp3",
+        "text": "The woman is drinking water.",
+        "english": "The woman is drinking water.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/68110.mp3",
+        "text": "Can I have some water, please?",
+        "english": "Can I have some water, please?",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "8664",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/87894.mp3",
+    "class": "noun",
+    "english": "",
+    "flashcardId": "225949",
+    "id": "19286",
+    "word": "beef",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/4705.mp3",
+        "text": "beef steak",
+        "english": "beef steak",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/86792.mp3",
+        "text": "beef for the main course",
+        "english": "beef for the main course",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/4701.mp3",
+        "text": "Tonight's choices are beef or chicken.",
+        "english": "Tonight's choices are beef or chicken.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/4703.mp3",
+        "text": "This beef is very delicious.",
+        "english": "This beef is very delicious.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/253602.mp3",
+        "text": "Do you eat beef?",
+        "english": "",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "8081",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/87895.mp3",
+    "class": "noun",
+    "english": "",
+    "flashcardId": "225950",
+    "id": "19289",
+    "word": "pork",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/87109.mp3",
+        "text": "pork chops",
+        "english": "pork chops",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/87111.mp3",
+        "text": "pork roast",
+        "english": "pork roast",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/87106.mp3",
+        "text": "Eating pork is forbidden by a number of religions.",
+        "english": "Eating pork is forbidden by a number of religions.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/87110.mp3",
+        "text": "Pork is the meat from a pig.",
+        "english": "Pork is the meat from a pig.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "10126",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/306130.mp3",
+    "class": "noun",
+    "english": "",
+    "flashcardId": "225951",
+    "id": "19292",
+    "word": "chicken",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/4712.mp3",
+        "text": "chicken leg",
+        "english": "chicken leg",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/4714.mp3",
+        "text": "chicken breast",
+        "english": "chicken breast",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/4717.mp3",
+        "text": "roast chicken",
+        "english": "roast chicken",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/92372.mp3",
+        "text": "chicken soup",
+        "english": "chicken soup",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/4719.mp3",
+        "text": "fried chicken",
+        "english": "fried chicken",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/105221.mp3",
+        "text": "eat chicken",
+        "english": "eat chicken",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/4921.mp3",
+        "text": "Chicken or fish?",
+        "english": "Chicken or fish?",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/4718.mp3",
+        "text": "I don't like chicken skin.",
+        "english": "I don't like chicken skin.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/2497.mp3",
+        "text": "The man is cutting chicken.",
+        "english": "The man is cutting chicken.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "15190",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/89195.mp3",
+    "class": "noun",
+    "english": "",
+    "flashcardId": "225952",
+    "id": "19295",
+    "word": "lamb",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/87116.mp3",
+        "text": "lamb chops",
+        "english": "lamb chops",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/87118.mp3",
+        "text": "rack of lamb",
+        "english": "rack of lamb",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "",
+        "text": "Lamb is extremely delicious.",
+        "english": "Lamb is extremely delicious.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "10023",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/87889.mp3",
+    "class": "noun",
+    "english": "",
+    "flashcardId": "225948",
+    "id": "19263",
+    "word": "fish",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/4695.mp3",
+        "text": "raw fish",
+        "english": "raw fish",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/4693.mp3",
+        "text": "Fish is an important food source for people.",
+        "english": "Fish is an important food source for people.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/4694.mp3",
+        "text": "Japanese people eat a lot of fish.",
+        "english": "Japanese people eat a lot of fish.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/253921.mp3",
+        "text": "Tonight's main course is grilled fish.",
+        "english": "Tonight's main course is grilled fish.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "8374",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/88200.mp3",
+    "class": "noun",
+    "english": "",
+    "flashcardId": "225953",
+    "id": "20585",
+    "word": "foot",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3853.mp3",
+        "text": "right foot",
+        "english": "right foot",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3855.mp3",
+        "text": "left foot",
+        "english": "left foot",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3851.mp3",
+        "text": "A foot has five toes.",
+        "english": "A foot has five toes.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "8542",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/262976.mp3",
+    "class": "noun",
+    "english": "",
+    "flashcardId": "225954",
+    "id": "20622",
+    "word": "leg",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3870.mp3",
+        "text": "long legs",
+        "english": "long legs",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3869.mp3",
+        "text": "The woman is  rinsing her leg.",
+        "english": "The woman is  rinsing her leg.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "9133",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3876.mp3",
+    "class": "noun",
+    "english": "",
+    "flashcardId": "225955",
+    "id": "23120",
+    "word": "head",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3882.mp3",
+        "text": "head and neck",
+        "english": "head and neck",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/262977.mp3",
+        "text": "Wear a helmet to protect your head.",
+        "english": "Wear a helmet to protect your head.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "9562",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/310921.mp3",
+    "class": "noun",
+    "english": "",
+    "flashcardId": "225956",
+    "id": "23135",
+    "word": "arm",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3896.mp3",
+        "text": "muscular arm",
+        "english": "muscular arm",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/197908.mp3",
+        "text": "two arms",
+        "english": "two arms",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/197907.mp3",
+        "text": "The two arms are raised.",
+        "english": "The two arms are raised.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "8317",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/88939.mp3",
+    "class": "noun",
+    "english": "",
+    "flashcardId": "225957",
+    "id": "23155",
+    "word": "hand",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3915.mp3",
+        "text": "left hand",
+        "english": "left hand",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3916.mp3",
+        "text": "right hand",
+        "english": "right hand",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/89916.mp3",
+        "text": "The child is raising his hand.",
+        "english": "The child is raising his hand.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "9323",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/88940.mp3",
+    "class": "noun",
+    "english": "",
+    "flashcardId": "225958",
+    "id": "23160",
+    "word": "finger",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/197910.mp3",
+        "text": "five fingers",
+        "english": "five fingers",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/197909.mp3",
+        "text": "The finger is pressed against the glass.",
+        "english": "The finger is pressed against the glass.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "8181",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3929.mp3",
+    "class": "noun",
+    "english": "",
+    "flashcardId": "225959",
+    "id": "27869",
+    "word": "body",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3930.mp3",
+        "text": "body and soul",
+        "english": "body and soul",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/197911.mp3",
+        "text": "human body",
+        "english": "human body",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3931.mp3",
+        "text": "Food is fuel for the body.",
+        "english": "Food is fuel for the body.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "8438",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3938.mp3",
+    "class": "noun",
+    "english": "",
+    "flashcardId": "225960",
+    "id": "27871",
+    "word": "stomach",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3945.mp3",
+        "text": "model of a stomach",
+        "english": "model of a stomach",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/3943.mp3",
+        "text": "I ate too much, and now my stomach hurts.",
+        "english": "I ate too much, and now my stomach hurts.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/262980.mp3",
+        "text": "I have a stomach ache.",
+        "english": "I have a stomach ache.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "2127",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/92254.mp3",
+    "class": "noun",
+    "english": "",
+    "flashcardId": "225962",
+    "id": "32944",
+    "word": "back",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/2482.mp3",
+        "text": "back muscles",
+        "english": "back muscles",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/262982.mp3",
+        "text": "A hedgehog's back is covered in sharp spines.",
+        "english": "A hedgehog's back is covered in sharp spines.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/92256.mp3",
+        "text": "I hurt my back by lifting heavy things all day.",
+        "english": "I hurt my back by lifting heavy things all day.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "8815",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/106570.mp3",
+    "class": "noun",
+    "english": "",
+    "flashcardId": "225961",
+    "id": "57999",
+    "word": "chest",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/90338.mp3",
+        "text": "X-ray of a chest",
+        "english": "X-ray of a chest",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/197912.mp3",
+        "text": "The doctor and nurse are taking an X-ray of the patient's chest.",
+        "english": "The doctor and nurse are taking an X-ray of the patient's chest.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/68530.mp3",
+        "text": "I have chest pain.",
+        "english": "I have chest pain.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "9349",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/88502.mp3",
+    "class": "noun",
+    "english": "",
+    "flashcardId": "225963",
+    "id": "20125",
+    "word": "nurse",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/2173.mp3",
+        "text": "male nurse",
+        "english": "male nurse",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/2175.mp3",
+        "text": "female nurse",
+        "english": "female nurse",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/198006.mp3",
+        "text": "The nurse at the school infirmary is examining the student.",
+        "english": "The nurse at the school infirmary is examining the student.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/2174.mp3",
+        "text": "The woman is a nurse.",
+        "english": "The woman is a nurse.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "15526",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/306113.mp3",
+    "class": "noun",
+    "english": "",
+    "flashcardId": "225964",
+    "id": "21596",
+    "word": "employee",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/2137.mp3",
+        "text": "employee benefits",
+        "english": "employee benefits",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/2138.mp3",
+        "text": "female employee",
+        "english": "female employee",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/197977.mp3",
+        "text": "The employees are having a meeting in the boardroom.",
+        "english": "The employees are having a meeting in the boardroom.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "8975",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/88497.mp3",
+    "class": "noun",
+    "english": "",
+    "flashcardId": "225965",
+    "id": "21678",
+    "word": "police officer",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/254004.mp3",
+        "text": "police officer",
+        "english": "police officer",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/254006.mp3",
+        "text": "police officer in uniform",
+        "english": "police officer in uniform",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/90640.mp3",
+        "text": "The job of a police officer is to protect and serve the public.",
+        "english": "The job of a police officer is to protect and serve the public.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/254005.mp3",
+        "text": "The police officer is questioning the driver.",
+        "english": "The police officer is questioning the driver.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "8032",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/306127.mp3",
+    "class": "noun",
+    "english": "",
+    "flashcardId": "225971",
+    "id": "21691",
+    "word": "cook",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/90644.mp3",
+        "text": "head cook",
+        "english": "head cook",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/90642.mp3",
+        "text": "We hired a new cook for the hotel restaurant.",
+        "english": "We hired a new cook for the hotel restaurant.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/90645.mp3",
+        "text": "She is a cook at a four-star restaurant.",
+        "english": "She is a cook at a four-star restaurant.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "19050",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/88506.mp3",
+    "class": "noun",
+    "english": "",
+    "flashcardId": "225966",
+    "id": "21706",
+    "word": "engineer",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/2202.mp3",
+        "text": "civil engineer",
+        "english": "civil engineer",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/2200.mp3",
+        "text": "A good engineer can design and build systems.",
+        "english": "A good engineer can design and build systems.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/263200.mp3",
+        "text": "I am an engineer.",
+        "english": "I am an engineer.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "8125",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/88507.mp3",
+    "class": "noun",
+    "english": "",
+    "flashcardId": "225967",
+    "id": "21711",
+    "word": "doctor",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/106412.mp3",
+        "text": "see a doctor",
+        "english": "see a doctor",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/90646.mp3",
+        "text": "medical doctor",
+        "english": "medical doctor",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/4938.mp3",
+        "text": "I am a doctor.",
+        "english": "I am a doctor.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/106409.mp3",
+        "text": "The doctor is taking the patient's pulse.",
+        "english": "The doctor is taking the patient's pulse.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/198007.mp3",
+        "text": "The doctor is examining the foot.",
+        "english": "The doctor is examining the foot.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "17412",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/306119.mp3",
+    "class": "noun",
+    "english": "",
+    "flashcardId": "225968",
+    "id": "21735",
+    "word": "manager",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/2143.mp3",
+        "text": "department manager",
+        "english": "department manager",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/2142.mp3",
+        "text": "The department manager is in charge of production.",
+        "english": "The department manager is in charge of production.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/198008.mp3",
+        "text": "The factory manager is giving instructions.",
+        "english": "The factory manager is giving instructions.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "9229",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/306031.mp3",
+    "class": "noun",
+    "english": "",
+    "flashcardId": "226098",
+    "id": "22144",
+    "word": "teacher",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/2227.mp3",
+        "text": "English teacher",
+        "english": "English teacher",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/2229.mp3",
+        "text": "teacher in a classroom",
+        "english": "teacher in a classroom",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/2228.mp3",
+        "text": "The teacher is teaching the kids in the classroom.",
+        "english": "The teacher is teaching the kids in the classroom.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "8595",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/2235.mp3",
+    "class": "noun",
+    "english": "",
+    "flashcardId": "225969",
+    "id": "27874",
+    "word": "programmer",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/2238.mp3",
+        "text": "computer programmer",
+        "english": "computer programmer",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/2239.mp3",
+        "text": "Some programmers work from home, so they don't have to commute to work.",
+        "english": "Some programmers work from home, so they don't have to commute to work.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/25221.mp3",
+        "text": "I am a programmer.",
+        "english": "I am a programmer.",
+        "en_audio": ""
+      }
+    ]
+  },
+  {
+    "img": "9477",
+    "audio": "http://cdn.innovativelanguage.com/wordlists/audio/263201.mp3",
+    "class": "noun",
+    "english": "",
+    "flashcardId": "225970",
+    "id": "27875",
+    "word": "salesman",
+    "en_audio": "",
+    "phrases": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/198011.mp3",
+        "text": "car salesman",
+        "english": "car salesman",
+        "en_audio": ""
+      }
+    ],
+    "sentences": [
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/2244.mp3",
+        "text": "Good salesmen are critical for the company's success.",
+        "english": "Good salesmen are critical for the company's success.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/198009.mp3",
+        "text": "He is a salesman.",
+        "english": "He is a salesman.",
+        "en_audio": ""
+      },
+      {
+        "audio": "http://cdn.innovativelanguage.com/wordlists/audio/198010.mp3",
+        "text": "The salesman is greeting a customer.",
+        "english": "The salesman is greeting a customer.",
+        "en_audio": ""
+      }
+    ]
+  }
+]

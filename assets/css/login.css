@@ -1,0 +1,59 @@
+/*
+Code written by Nguyen Van Hung at @imrhung
+Feel free to re-use or share it.
+Happy code!!!
+*/
+/* 
+    Created on : Oct 9, 2014, 1:47:31 PM
+    Author     : MrHung
+*/
+
+html, body{
+    height: 100%;
+    background: #657E8A;
+}
+
+#page-wrapper {
+    background-color: #657E8A;
+}
+
+input::-webkit-input-placeholder, textarea::-webkit-input-placeholder {
+  color: #636363;
+}
+input:-moz-placeholder, textarea:-moz-placeholder {
+  color: #636363;
+}
+
+.btn-success{
+    color:#fff;
+    background-color:#1E6C79;
+    border-color:#1E6C79
+}
+
+.btn-success:hover,
+.btn-success:focus,
+.btn-success:active,
+.btn-success.active,
+.open > .dropdown-toggle.btn-success {
+    color: #fff;
+    background-color:#1E6C79;
+    border-color:#1E6C79
+}
+
+.cb_rememberme{
+    color: white;
+}
+
+// For big screen like PC or laptop, tablet.
+@media (min-width: 768px) {
+    #login-logo{
+        margin-top: 100px;
+    }
+}
+
+// For small screen like mobile phone.
+@media (max-width: 767px){
+    #login-logo{
+        margin-top: 10px;
+    }
+}
