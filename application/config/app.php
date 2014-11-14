@@ -7,7 +7,7 @@
  **/
 
 // Default App Title
-$config['app_title'] = 'Hello Lion!';
+$config['app_title'] = 'Improving Network!';
 
 // Default "From" for Email library
 $config['email_from_name'] = 'Do Not Reply - My App';
